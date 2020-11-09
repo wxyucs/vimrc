@@ -1,4 +1,4 @@
-source .vimrc_vundle
+source $HOME/.vimrc_vundle
 
 autocmd vimenter * NERDTree
 
@@ -36,6 +36,6 @@ set hlsearch
 set cindent
 set cinoptions=g1
 
-set runtimepath^=~/.vim/bundle/ctrlp.vim
+set runtimepath^=$HOME/.vim/bundle/ctrlp.vim
 let g:ctrlp_map = '<c-p>'
 let g:ctrlp_cmd = 'CtrlP'
