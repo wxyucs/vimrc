@@ -19,6 +19,9 @@ Plugin 'git://git.wincent.com/command-t.git'
 " theme
 Plugin 'sickill/vim-monokai'
 
+" ycm
+Plugin 'ycm-core/YouCompleteMe'
+
 " All of your Plugins must be added before the following line
 call vundle#end()            " required
 filetype plugin indent on    " required
