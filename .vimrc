@@ -1,4 +1,4 @@
-source $HOME/.vimrc_vundle
+source $HOME/.vim_runtime/.vimrc_vundle
 
 autocmd vimenter * NERDTree
 
