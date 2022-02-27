@@ -13,6 +13,7 @@ Plug 'scrooloose/nerdtree'
 Plug 'git://git.wincent.com/command-t.git'
 Plug 'kien/ctrlp.vim'
 Plug 'octol/vim-cpp-enhanced-highlight'
+Plug 'ycm-core/YouCompleteMe'
 
 " Initialize plugin system
 call plug#end()
