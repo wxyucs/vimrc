@@ -10,7 +10,7 @@ curl -fLo ~/.vim/autoload/plug.vim --create-dirs \
 
 ## download vim configuration
 ```bash
-git clone git@github.com:wxyucs/vimrc.git ~/.vim_runtime
+git clone https://github.com/wxyucs/vimrc.git ~/.vim_runtime
 sh ~/.vim_runtime/install.sh
 ```
 
