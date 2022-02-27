@@ -7,5 +7,6 @@ if [ -e ~/.vimrc ]; then
 fi
 
 cd ~/.vim_runtime
-cat ~/.vim_runtime/.vimrc > ~/.vimrc
+cat ~/.vim_runtime/basic.vim > ~/.vimrc
+vim +PlugInstall +qa
 echo "vimrc install successfully!"
