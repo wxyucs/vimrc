@@ -1,4 +1,4 @@
-source $HOME/.vim_runtime/.vimrc_vundle
+source $HOME/.vim_runtime/plugins.vim
 
 syntax on
 colorscheme monokai
@@ -36,4 +36,3 @@ augroup finalcountdown
  au!
  autocmd BufEnter * if (winnr("$") == 1 && exists("b:NERDTree") && b:NERDTree.isTabTree()) || &buftype == 'quickfix' | q | endif
 augroup END
-
