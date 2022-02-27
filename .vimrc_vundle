@@ -25,6 +25,9 @@ Plugin 'ycm-core/YouCompleteMe'
 " ctrlp
 Plugin 'kien/ctrlp.vim'
 
+" cpp highlight
+Plugin 'octol/vim-cpp-enhanced-highlight'
+
 " All of your Plugins must be added before the following line
 call vundle#end()            " required
 filetype plugin indent on    " required

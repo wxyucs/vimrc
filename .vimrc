@@ -8,6 +8,7 @@ set splitbelow
 set tabstop=4
 set shiftwidth=4
 set expandtab
+set backspace=indent,eol,start
 
 nmap <F5> :18winc <<cr>
 nmap <F8> :18winc ><cr>
