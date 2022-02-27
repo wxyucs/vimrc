@@ -11,7 +11,6 @@ call plug#begin()
 
 Plug 'scrooloose/nerdtree'
 Plug 'git://git.wincent.com/command-t.git'
-Plug 'sickill/vim-monokai'
 Plug 'ycm-core/YouCompleteMe'
 Plug 'kien/ctrlp.vim'
 Plug 'octol/vim-cpp-enhanced-highlight'
