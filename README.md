@@ -17,4 +17,6 @@ sh ~/.vim_runtime/install.sh
 ## install
 ```bash
 vim +PlugInstall +qa
+cd  ~/.vim/plugged/YouCompleteMe
+python3 ./install.py
 ```
