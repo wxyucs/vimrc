@@ -9,6 +9,8 @@ set expandtab
 set backspace=indent,eol,start
 
 nmap <F5> :18winc <<cr>
+nmap <F6> :6winc -<cr>
+nmap <F7> :6winc +<cr>
 nmap <F8> :18winc ><cr>
 nmap <C-J> 50j<cr>
 nmap <C-K> 50k<cr>
