@@ -7,6 +7,7 @@ set tabstop=4
 set shiftwidth=4
 set expandtab
 set backspace=indent,eol,start
+set colorcolumn=80
 
 nmap <F5> :18winc <<cr>
 nmap <F6> :6winc -<cr>
