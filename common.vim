@@ -8,6 +8,7 @@ set shiftwidth=4
 set expandtab
 set backspace=indent,eol,start
 set colorcolumn=80
+set encoding=utf-8
 
 nmap <F5> :18winc <<cr>
 nmap <F6> :6winc -<cr>
